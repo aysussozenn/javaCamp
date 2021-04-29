@@ -1,2 +1,2 @@
 # javaCamp
-Day2 Practice1- Basic Class Structure
+Java OOP Practices
