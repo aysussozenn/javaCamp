@@ -1,2 +1,2 @@
 # javaCamp
-Day2 Homework1- Basic Class Structure
+Day2 Practice1- Basic Class Structure
